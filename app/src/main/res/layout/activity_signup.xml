@@ -103,7 +103,7 @@
 
 
     <Button
-        android:id="@+id/elevatedButton"
+        android:id="@+id/sing_up_btn"
         style="@style/Widget.Material3.Button.Icon"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/elevatedButton" />
+        app:layout_constraintTop_toBottomOf="@+id/sing_up_btn" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
